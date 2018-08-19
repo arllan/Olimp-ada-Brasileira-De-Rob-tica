@@ -6,13 +6,15 @@ Esse diretorio foi criado para auxiliar equipes iniciantes na modalidade prátic
 
 Programações
 
-Seguido de linha (on-off com dois sensores de luz)
+Retirando media aritmética (NXT EV3)
 
-Seguido de linha (P do PID)
+Seguido de linha (on-off com dois sensores de luz) (NXT EV3)
 
-seguindo de linha com encruzilhada
+Seguido de linha (P do PID)(NXT EV3)
 
-Desvio + seguidor de linha
+seguindo de linha com encruzilhada (NXT EV3)
 
-Projetos com (nxt e ev3)
+Desvio + seguidor de linha (NXT EV3)
+
+Projetos com (NXT EV3)
 
